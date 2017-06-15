@@ -46,7 +46,7 @@ Specific talks about different topics (mostly about JS and the universe around i
 - Front End Security
 - ESN
 - JavaScript engines
-- substack
+- Substack
 
 ---
 
@@ -237,7 +237,7 @@ Slides: https://www.slideshare.net/RafaelCasusoRomate/javascript-editions-es7-es
 
 ## Demystifying (JavaScript) engines
 
-**Alejandro oviedo**
+**Alejandro Oviedo**
 
 http://2017.jsday.es/#5740078466859008/99964005
 
@@ -255,7 +255,7 @@ He showcased JIT optimizations with loop examples.
 
 ## the web these days
 
-**James Halliday** (aka substack, aka creator of browserify and tape)
+**James Halliday** (aka Substack, aka creator of browserify and tape)
 
 http://2017.jsday.es/#5740078466859008/97864001
 
