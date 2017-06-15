@@ -41,11 +41,11 @@ Specific talks about different topics (mostly about JS and the universe around i
 - IoT
 - VR
 - Forensics (debugging)
-- Kubernetes
-- Visible or Invisible
+- Containers and how to manage a lot of them
+- + IoT
 - Front End Security
 - ESN
-- Javascript engines
+- JavaScript engines
 - substack
 
 ---
@@ -62,7 +62,7 @@ http://2017.jsday.es/#5740078466859008/104184002
 
 ---
 
-## ¿Una plataforma de IoT sólo con JS? Es posible... y además, ¡barato!
+## ¿Una plataforma de IoT sólo con JS? Es posible... y además, ¡barato!...
 
 ### Libraries
 
@@ -97,7 +97,7 @@ http://2017.jsday.es/#5740078466859008/102034003
 
 ---
 
-## Building VR experiences
+## Building VR experiences...
 
 ### Links
 
@@ -127,41 +127,147 @@ http://2017.jsday.es/#5740078466859008/102064002
 
 ---
 
-# There's more
+## Creando una arquitectura de microservicios en node.js y Kubernetes
 
-## Syntax highlighting
+**Paul Goldbaum**
 
-You can also add `code` to your slides:
-```html
-<div class="impact">Some HTML code</div>
-```
+http://2017.jsday.es/#5740078466859008/99974002
 
-## CSS classes
+### Networking between containers
 
-You can use .alt[shortcut] syntax to apply .big[some style!]
-
-...or just <span class="alt">HTML</span> if you prefer.
+- Containers asynchronously starting and stopping (sometimes not on purpose)
+- Architecture
+  - Synch via http (status => ping)
+  - Graceful shutdown
+  - Asynch messages using a message bus with pub/sub
 
 ---
 
-# And more...
+## Creando una arquitectura de microservicios en node.js y Kubernetes
 
-## 12-column grid layout
+### Elixir
 
-Use to the included **grid layout** classes to split content easily:
-.col-6[
-  ### Left column
+Used to scale up apps (bear in mind it is hard, you probably don't need Elixir right away)
 
-  - I'm on the left
-  - It's neat!
-]
-.col-6[
-  ### Right column
+---
 
-  - I'm on the right
-  - I love it!
-]
+## Invisible o desaparece
 
-## Learn the tricks
+**Juliet Moreiro Bockhop**
 
-See the [wiki](https://github.com/gnab/remark/wiki) to learn more of what you can do with .alt[Remark.js]
+http://2017.jsday.es/#5740078466859008/97064002
+
+### Corporate sponsored talk (Microsoft)
+
+They wanted to showcase thier new tools, apis (vision, language, etc) and services. for IoT so they came up with a cool example to do so: a real-time sentiment engine for a specific twitter search (a hashtag selected for the talk) would send data to an internet-connected-lightbulb and shine accordingly (blue: neutral; red: bad; green: cool).
+
+She also mentioned how the world is more connected than what we imagine. She mentioned a situation where Amazon's Alexa helped out in a murder case. And how there are new and unexpected situations: new skills needed, unsecure IoT devices.
+
+---
+
+## Invisible o desaparece...
+
+### Links
+
+- https://github.com/nebgnahz/awesome-iot-hacks
+
+---
+
+## Un paso más en seguridad FrontEnd con Web Crypto API
+
+**Jon Roji**
+
+http://2017.jsday.es/#5740078466859008/102874001
+
+https://github.com/jroji
+
+### Web Cripto API
+
+- Security on top of https
+- Directly in JS
+- Using Private & Public keys
+
+---
+
+## Un paso más en seguridad FrontEnd con Web Crypto API...
+
+### Use case
+
+Send cyphered & encripted data from a client to another client via a server.
+
+e.g. - a messaging app that offers end to end encription. This way the server cannot interfere (nor read) the messages, nor tamper, etc.
+
+---
+
+## ES7 & ES8 vs V8
+
+**Rafael Casuso Romate**
+
+@Rafael_Csuso
+
+CTO @StayApp && @SnowStormIO
+
+http://2017.jsday.es/#5740078466859008/103414002
+
+Slides: https://www.slideshare.net/RafaelCasusoRomate/javascript-editions-es7-es8-and-es9-vs-v8
+
+### JS version release process
+
+- How do new features get into the proposal and then to the spec
+
+---
+
+## ES7 & ES8 vs V8...
+
+### New features coming
+
+- Async & Await
+- Webworkerrs & Atomics
+- Object entries & object values
+- String padding
+- Get own property descriptors
+
+### ES9 in the future
+
+- Object destructuring
+- Async iteration
+- import (in runtime)
+
+---
+
+## Demystifying (JavaScript) engines
+
+**Alejandro oviedo**
+
+http://2017.jsday.es/#5740078466859008/99964005
+
+### Toretto's complex (yep from Fast & Furious)
+
+> Devs love benchmarks, because they always want to be using the best tools.
+
+He decided to learn how the differente browser engines deal with JS.
+
+JITs cannot handle _with_, _try & catch_ and _eval_.
+
+He showcased JIT optimizations with loop examples.
+
+---
+
+## the web these days
+
+**James Halliday** (aka substack, aka creator of browserify and tape)
+
+http://2017.jsday.es/#5740078466859008/97864001
+
+https://github.com/substack/jsday-es-2017
+
+https://github.com/substack/jsday-madrid-workshop
+
+This mad genius (using only two slipers and vi) showcased:
+
+- a peer-to-peer descentralized social network (https://github.com/ssbc/secure-scuttlebutt)
+- a webGL example with live audio (generated using the web audio API)
+
+---
+
+### EOF 
