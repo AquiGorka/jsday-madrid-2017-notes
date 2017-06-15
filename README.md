@@ -2,6 +2,7 @@
 
 ## Dev
 ```sh
+npm i --save-dev backslide
 node_modules/backslide/bin/bs serve
 ```
 
