@@ -7,5 +7,5 @@ node_modules/backslide/bin/bs serve
 
 ## Build
 ```sh
-node_modules/backslide/bin/bs export
+node_modules/backslide/bin/bs export -o docs
 ```
