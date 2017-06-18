@@ -243,6 +243,10 @@ http://2017.jsday.es/#5740078466859008/99964005
 
 ### Toretto's complex (yep from Fast & Furious)
 
+https://github.com/a0viedo
+
+https://twitter.com/a0viedo
+
 > Devs love benchmarks, because they always want to be using the best tools.
 
 He decided to learn how the differente browser engines deal with JS.
@@ -250,6 +254,14 @@ He decided to learn how the differente browser engines deal with JS.
 JITs cannot handle _with_, _try & catch_ and _eval_.
 
 He showcased JIT optimizations with loop examples.
+
+---
+
+### Toretto's complex (yep from Fast & Furious)...
+
+### Links
+
+https://github.com/a0viedo/demystifying-js-engines
 
 ---
 
