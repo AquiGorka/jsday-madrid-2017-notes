@@ -241,11 +241,11 @@ Slides: https://www.slideshare.net/RafaelCasusoRomate/javascript-editions-es7-es
 
 http://2017.jsday.es/#5740078466859008/99964005
 
-### Toretto's complex (yep from Fast & Furious)
-
 https://github.com/a0viedo
 
 https://twitter.com/a0viedo
+
+### Toretto's complex (yep from Fast & Furious)
 
 > Devs love benchmarks, because they always want to be using the best tools.
 
@@ -257,7 +257,7 @@ He showcased JIT optimizations with loop examples.
 
 ---
 
-### Toretto's complex (yep from Fast & Furious)...
+## Demystifying (JavaScript) engines...
 
 ### Links
 
