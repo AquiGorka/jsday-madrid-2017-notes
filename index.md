@@ -324,7 +324,9 @@ http://2017.jsday.es/#5740078466859008/103414002
 
 - https://www.slideshare.net/RafaelCasusoRomate/javascript-editions-es7-es8-and-es9-vs-v8
 
-- @Rafael_Csuso
+- @Rafael_Casuso
+
+- https://www.todojs.com/es7-es8-vs-v8-rafael-casuso-romate/
 
 ---
 
