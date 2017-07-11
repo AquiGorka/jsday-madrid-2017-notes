@@ -391,6 +391,8 @@ This mad genius (using only two slipers and vi) showcased:
 
 - @substack
 
+- https://www.todojs.com/the-web-these-days-by-james-halliday-substack/
+
 ---
 
 ### EOF 
