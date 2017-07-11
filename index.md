@@ -210,6 +210,8 @@ Used to scale up apps (bear in mind it is hard, you probably don't need Elixir r
 
 - @paulgoldbaum
 
+- https://www.todojs.com/creando-una-arquitectura-microservicios-node-js-kubernetes-paul-goldbaum/
+
 ---
 
 ## Invisible o desaparece
