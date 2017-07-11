@@ -176,6 +176,8 @@ http://2017.jsday.es/#5740078466859008/102064002
 
 - @aeroalquimia
 
+- https://www.todojs.com/tecnicas-forenses-javascript-eduardo-sada/
+
 ---
 
 ## Creando una arquitectura de microservicios en node.js y Kubernetes
