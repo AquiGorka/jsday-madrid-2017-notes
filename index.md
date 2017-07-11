@@ -22,6 +22,7 @@ class: impact
 
 10 min quick talks about cool stuff, companies and whoever wanted to say anything (seriously they invited people from the audience up to the stage).
 
+
 ## The Talks
 
 Specific talks about different topics (mostly about JS and the universe around it).
@@ -33,10 +34,22 @@ Specific talks about different topics (mostly about JS and the universe around i
 ### http://2017.jsday.es/#5642674782601216
 
 - PRDeving: Construyendo un Rasterizador 3D con iluminacion dinámica en JS vanilla en 10 minutos
+    - https://www.todojs.com/construyendo-rasterizador-3d-iluminacion-dinamica-js-vanilla-10-minutos-prdeving/
 
 - Creating good-ol' PDFs and Emails with React (amazing how this has gotten so much attention lately)
+    - https://www.todojs.com/creating-good-ol-pdfs-and-emails-with-react-by-fernando-aguero-and-alberto-restifo/
+
+---
+
+## Day Uno...
 
 - Splitting the Monolith from a Front-End point of view (Spotahome commercial - not cool)
+
+    - https://www.todojs.com/splitting-the-monolith-from-front-end-point-of-view-by-bryan-mceire/
+
+- const { videosFromBothDays } = links
+
+    - https://www.todojs.com/jsday17es/
 
 ---
 
