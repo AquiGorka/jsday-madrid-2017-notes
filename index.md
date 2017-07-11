@@ -200,13 +200,12 @@ http://2017.jsday.es/#5740078466859008/99974002
 
 ### Elixir
 
-Used to scale up apps (bear in mind it is hard, you probably don't need Elixir right away)
+Used to scale up apps (bear in mind it is hard, you probably don't need Elixir right away - https://elixir-lang.org/)
 
 ### Links
 
 - CTO @ http://www.seedtag.com
 
-- https://elixir-lang.org/
 
 - @paulgoldbaum
 
