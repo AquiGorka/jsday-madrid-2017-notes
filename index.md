@@ -358,6 +358,8 @@ He showcased JIT optimizations with loop examples.
 
 - @a0viedo
 
+- https://www.todojs.com/demystifying-javascript-engines-by-alejandro-oviedo-garcia/
+
 ---
 
 ## the web these days
