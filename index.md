@@ -206,7 +206,6 @@ Used to scale up apps (bear in mind it is hard, you probably don't need Elixir r
 
 - CTO @ http://www.seedtag.com
 
-
 - @paulgoldbaum
 
 - https://www.todojs.com/creando-una-arquitectura-microservicios-node-js-kubernetes-paul-goldbaum/
@@ -238,6 +237,8 @@ They came up with a cool example to do so: a real-time sentiment engine for a sp
 - https://github.com/nebgnahz/awesome-iot-hacks
 
 - @julietsvq
+
+- https://www.todojs.com/invisible-desaparece-juliet-moreiro-bockhop/
 
 ---
 
