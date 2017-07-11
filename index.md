@@ -279,6 +279,8 @@ This way the server cannot interfere (nor read) the messages, nor tamper, etc.
 
 - @Jnroji
 
+- https://www.todojs.com/paso-mas-seguridad-frontend-web-crypto-api-jon-roji/
+
 ---
 
 ## ES7 & ES8 vs V8
