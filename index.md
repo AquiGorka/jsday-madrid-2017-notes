@@ -108,6 +108,8 @@ http://2017.jsday.es/#5740078466859008/104184002
 
 - @semagarcia
 
+- https://www.todojs.com/una-plataforma-iot-solo-js-posible-ademas-barato-jose-manuel-garcia-garcia/
+
 ---
 
 ## Building VR experiences
